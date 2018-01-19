@@ -1,10 +1,13 @@
-## A fullstack MVC app using MySQL, Node, Express, Handlebars and a homemade ORM. 
+### Eat-Da-Burger
 
-### To test this app, visit this URL: 
+A fullstack MVC app 
+
+### To test the app, visit this URL: 
 
 https://ben-burger-app.herokuapp.com/
 
 ### Technologies Used: 
+* jquery
 * node js
 * express 
 * express handlebars
