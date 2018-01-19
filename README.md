@@ -4,8 +4,8 @@ https://ben-burger-app.herokuapp.com/
 
 ## Technologies Used: 
 * node js
-* handlebars
-* express
+* express 
+* express handlebars
 * mysql
 * heroku
 * heroku jawsdb
